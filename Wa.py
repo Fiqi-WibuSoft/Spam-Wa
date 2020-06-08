@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./ ★᭄ꦿ᭄ꦿᴀsᴀsιɴ нᴀcκ]彡★\n\t\t   YT : Asasin Hack')
+                   '''+W+'Creator : ./ AsasinHack\n\t\t   YT : Asasin Hack')
                    
 def RupaRupa():
 	print
