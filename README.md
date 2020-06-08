@@ -14,7 +14,7 @@ This Code Was Made To Make Your Friends Joke: v
 $ pkg install git
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/Fukur0-3XP/Spam-Wa
+$ git clone https://github.com/mrcyber404/Spam-Wa/edit/master/README.md
 $ cd Spam-Wa
 $ python2 Wa.py
 ```
