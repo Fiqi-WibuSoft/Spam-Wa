@@ -7,7 +7,7 @@ Kode Ini Dibuat Untuk Menjahili Teman Kalian :v
 ```
 ```
 Inggris : 
-This Code Was Made To Make Your Friends Joke: v
+This code is made for prankThis code is made for your friendsThis code is made for your friends
 ```
 # Penginstalan
 ```
@@ -21,9 +21,9 @@ $ python2 Wa.py
 
 # Info
 ```
-Creator : ./FUKUR0-3XP
-Team : Black Coders Anonymous Satanic Exploiter Team
+Creator : ./AsasinHak
+YOUTUBE : https://www.youtube.com/channel/UChc0FS-vGZLl3ZR1S-jNAcg
 
-Instagram : ricko.3xp_
-Email : 3xp.fukur0@gmail.com
+
+
 ```
