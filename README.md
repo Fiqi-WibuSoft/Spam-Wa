@@ -1,5 +1,5 @@
 # Spam Wa
-![IMG_20200202_195322](https://user-images.githubusercontent.com/59508497/73608456-b8536a80-45f5-11ea-8458-50817c3088a2.JPG)
+
 
 ```
 Indonesia :
@@ -21,9 +21,11 @@ $ python2 Wa.py
 
 # Info
 ```
-Creator : ./FUKUR0-3XP
-Team : Black Coders Anonymous Satanic Exploiter Team
+Creator : ./AsasinHack
+YT=Asasin Hack
 
-Instagram : ricko.3xp_
-Email : 3xp.fukur0@gmail.com
-```
+
+
+
+
+
