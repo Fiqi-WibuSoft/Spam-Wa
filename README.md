@@ -6,7 +6,7 @@ Indonesia :
 Kode Ini Dibuat Untuk Menjahili Teman Kalian :v
 ```
 ```
-Inggris : 
+English :
 This code is made for prankThis code is made for your friendsThis code is made for your friends
 ```
 # Penginstalan
