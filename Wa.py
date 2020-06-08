@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
-# Creator :  ./Asasin Hack
-# YT=Asasin Hack
-# Recode 
+# Creator :  ./FUKUR0-3XP
+# Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
+# Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
 from requests import ConnectionError
 from time import sleep
@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator :★᭄ꦿ᭄ꦿᴀsᴀsιɴ нᴀcκ]彡★\n\t\t   YT : Asasin Hack')
+                   '''+W+'Creator : ./Fukur0\n\t\t   YT : Jejak Cyber')
                    
 def RupaRupa():
 	print
@@ -50,13 +50,13 @@ def RupaRupa():
 	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
 	jumlah = input(''+C+'JUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
 	print
-	MesinTik_2(''+C+'-------------- '+W+'SEDANG MENGIRIM'+C+' --------------')
+	MesinTik_2(''+C+'-------------- '+W+'Starting'+C+' --------------')
 	print
 	hitung = len(number)
 	
 	if hitung < 9:
 		print
-		print(M+'Nomor Tidak Ada !')
+		print(M+'Nomor Tidak Valid !')
 		sys.exit()
 	
 	for x in range(jumlah):
@@ -120,7 +120,7 @@ def RupaRupa():
 		
 		except ConnectionError:
 			print
-			print(M+'Cek Koneksi JaringanMu !')
+			print(M+'Cek Koneksi JaringanMu Gan !')
 			break
 		
 		except NameError:
@@ -137,7 +137,7 @@ def Tokped():
 	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
 	jumlah = input(''+C+'JUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
 	print
-	MesinTik_2(''+C+'-------------- '+W+'SEDANG MENGIRIM'+C+' --------------')
+	MesinTik_2(''+C+'-------------- '+W+'Starting'+C+' --------------')
 	print
 	for x in range(jumlah):
 		try:
@@ -184,7 +184,7 @@ def Tokped():
 				
 		except ConnectionError:
 			print
-			print(M+'Cek Koneksi JaringanMu !')
+			print(M+'Cek Koneksi JaringanMu Gan !')
 			break
 		
 		except NameError:
@@ -195,7 +195,7 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Subscribe YT'+W+' AKU!!'+C+' :V')
+	print(C+'Subscribe YT'+W+' Gua Dlu Su !'+C+' :V')
 	sleep(1.5)
 	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
 	os.system('clear')
