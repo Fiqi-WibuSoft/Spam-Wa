@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
 # Creator :  ./Asasin Hack
-# Team :)
-# Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :V
+# YT=Asasin Hack
+# Recode 
 
 from requests import ConnectionError
 from time import sleep
@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator :★᭄ꦿ᭄ꦿᴀsᴀsιɴ нᴀcκ]彡★\n\t\t   Youtube : Asasin Hack')
+                   '''+W+'Creator :★᭄ꦿ᭄ꦿᴀsᴀsιɴ нᴀcκ]彡★\n\t\t   YT : Asasin Hack')
                    
 def RupaRupa():
 	print
@@ -76,7 +76,7 @@ def RupaRupa():
 			data_1 = {
 			
 			'phone' : number,
-			'email' : 'kepo',
+			'email' : 'jejak@gmail.com',
 			'action' : 'register',
 			'password' : ''
 			
@@ -120,7 +120,7 @@ def RupaRupa():
 		
 		except ConnectionError:
 			print
-			print(M+'Cek Koneksi Jaringan!')
+			print(M+'Cek Koneksi JaringanMu !')
 			break
 		
 		except NameError:
@@ -184,7 +184,7 @@ def Tokped():
 				
 		except ConnectionError:
 			print
-			print(M+'Cek Koneksi Jaringan !')
+			print(M+'Cek Koneksi JaringanMu !')
 			break
 		
 		except NameError:
@@ -195,9 +195,9 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Subscribe YT'+W+' Aku dulu..... !'+C+' :V')
+	print(C+'Subscribe YT'+W+' AKU!!'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://www.youtube.com/channel/UChc0FS-vGZLl3ZR1S-jNAcg)
+	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
