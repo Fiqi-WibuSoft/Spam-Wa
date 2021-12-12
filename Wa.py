@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./ AsasinHack\n\t\t   YT : Asasin Hack')
+                   '''+W+'Creator : ./ Fiqi54ns\n\t\t   IG : hyputganz_')
                    
 def RupaRupa():
 	print
@@ -195,9 +195,9 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Subscribe YT'+W+' AKU !'+C+' :)')
+	print(C+'Follow IG'+W+' Aku !'+C+' :)')
 	sleep(1.5)
-	os.system('xdg-open https://www.youtube.com/channel/UChc0FS-vGZLl3ZR1S-jNAcg')
+	os.system('xdg-open https://www.instagram.com/hyputganz_')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
