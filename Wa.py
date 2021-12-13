@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
-# Creator :  Asasin Hack
-# YT=Asasin Hack
-# Recode
+# Creator : Fiqi Sans
+# Ig= @Hyputganz_
+# Y
 
 from requests import ConnectionError
 from time import sleep
